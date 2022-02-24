@@ -1,0 +1,15 @@
+---
+title: "Assignment_3_script"
+author: "Erik Carle and Josef Schmidt"
+date: '2022-02-24'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+x <- 1+1
+```
+
